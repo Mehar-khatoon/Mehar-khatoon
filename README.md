@@ -11,7 +11,7 @@ Currently, I am learning about machine learning and exploring mobile app develop
 ## Tech Stack
 
 - **Languages:** JavaScript, Python, C++
-- **Web Development:** HTML, CSS, React, Node.js, Tailwind CSS
+- **Web Development:** HTML, CSS
 - **Mobile Development:** Flutter
 - **Design Tools:** Figma
 - **Tools & Platforms:** Git, GitHub, Firebase, VS Code
